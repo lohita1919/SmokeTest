@@ -1,0 +1,33 @@
+2018-11-18 20:13:43 INFO  TC_001:15 - Selected the browser------CHROME
+2018-11-18 20:14:12 INFO  TC_001:17 - Navigated to the URL ------https://www.amazon.in
+2018-11-18 20:14:12 INFO  TC_001:19 - Entered the value into the search button with the locator ID -----twotabsearchtextbox
+2018-11-18 20:14:21 INFO  TC_001:21 - Clicked on search button using xpath locator ---- //*[@id="nav-search"]/form/div[2]/div/input
+2018-11-18 20:14:21 INFO  TC_001:22 - =====End TC_001 =======
+2018-11-18 20:18:45 INFO  TC_001:15 - Selected the browser------CHROME
+2018-11-18 20:20:11 INFO  TC_001:17 - Navigated to the URL ------https://www.amazon.in
+2018-11-18 20:20:11 INFO  TC_001:19 - Entered the value into the search button with the locator ID -----twotabsearchtextbox
+2018-11-18 20:20:23 INFO  TC_001:21 - Clicked on search button using xpath locator ---- //*[@id="nav-search"]/form/div[2]/div/input
+2018-11-18 20:20:23 INFO  TC_001:22 - =====End TC_001 =======
+2018-11-18 20:48:02 INFO  TC_001:15 - Selected the browser------CHROME
+2018-11-18 20:48:19 INFO  TC_001:17 - Navigated to the URL ------https://www.amazon.in
+2018-11-18 20:48:19 INFO  TC_001:19 - Entered the value into the search button with the locator ID -----twotabsearchtextbox
+2018-11-18 20:48:22 INFO  TC_001:21 - Clicked on search button using xpath locator ---- //*[@id="nav-search"]/form/div[2]/div/input
+2018-11-18 20:48:22 INFO  TC_001:22 - =====End TC_001 =======
+2018-11-18 20:49:44 INFO  TC_001:15 - Selected the browser------CHROME
+2018-11-18 20:50:01 INFO  TC_001:17 - Navigated to the URL ------https://www.amazon.in
+2018-11-18 20:50:02 INFO  TC_001:19 - Entered the value into the search button with the locator ID -----twotabsearchtextbox
+2018-11-18 20:50:07 INFO  TC_001:21 - Clicked on search button using xpath locator ---- //*[@id="nav-search"]/form/div[2]/div/input
+2018-11-18 20:50:07 INFO  TC_001:22 - =====End TC_001 =======
+2018-11-21 00:43:29 INFO  TC_001:15 - Selected the browser------CHROME
+2018-11-21 00:43:46 INFO  TC_001:17 - Navigated to the URL ------https://www.amazon.in
+2018-11-21 00:43:47 INFO  TC_001:19 - Entered the value into the search button with the locator ID -----twotabsearchtextbox
+2018-11-21 00:43:54 INFO  TC_001:21 - Clicked on search button using xpath locator ---- //*[@id="nav-search"]/form/div[2]/div/input
+2018-11-21 00:43:54 INFO  TC_001:22 - =====End TC_001 =======
+2018-11-21 01:01:53 INFO  TC_001:15 - Selected the browser------CHROME
+2018-11-21 01:02:09 INFO  TC_001:17 - Navigated to the URL ------https://www.amazon.in
+2018-11-21 01:02:09 INFO  TC_001:19 - Entered the value into the search button with the locator ID -----twotabsearchtextbox
+2018-11-21 01:16:53 INFO  TC_001:15 - Selected the browser------CHROME
+2018-11-21 01:17:10 INFO  TC_001:17 - Navigated to the URL ------https://www.amazon.in
+2018-11-21 01:17:10 INFO  TC_001:19 - Entered the value into the search button with the locator ID -----twotabsearchtextbox
+2018-11-21 01:17:15 INFO  TC_001:21 - Clicked on search button using xpath locator ---- //*[@id="nav-search"]/form/div[2]/div/input
+2018-11-21 01:17:15 INFO  TC_001:22 - =====End TC_001 =======
